@@ -1,0 +1,10 @@
+.product-card h2 {
+    font-size: 1.2em;
+    margin: 0 0 10px 0;
+  }
+  
+  .product-card p {
+    margin: 0;
+    color: #555;
+  }
+  
